@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-ng-up": {
+      "hosting": {
+        "app": [
+          "ionic-ng-up"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-ng-up"
+  }
+}
